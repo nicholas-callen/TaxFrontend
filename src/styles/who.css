@@ -1,0 +1,254 @@
+.indexWho {
+  background-color: #f6f6f6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.indexWho .overlap-wrapper {
+  background-color: #f6f6f6;
+  height: 4470px;
+  width: 1440px;
+}
+
+.indexWho .overlap {
+  background-color: #ffffff;
+  border-radius: 24px;
+  height: 2595px;
+  left: 50px;
+  position: relative;
+  top: 49px;
+  width: 1340px;
+}
+
+.indexWho .nickl {
+  height: 400px;
+  left: 62px;
+  position: absolute;
+  top: 2139px;
+  width: 1193px;
+}
+
+.indexWho .nick-pic {
+  background-color: #c4c4c4;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  height: 400px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.indexWho .overlap-group {
+  height: 383px;
+  left: 343px;
+  position: absolute;
+  top: 0;
+  width: 846px;
+}
+
+.indexWho .text-wrapper {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  top: 37px;
+  width: 846px;
+}
+
+.indexWho .div {
+  color: #000000;
+  font-family: "Newsreader", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 443px;
+}
+
+.indexWho .gordonl {
+  height: 400px;
+  left: 62px;
+  position: absolute;
+  top: 1641px;
+  width: 1212px;
+}
+
+.indexWho .img {
+  height: 400px;
+  left: 908px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.indexWho .gordon-is-a-blend-of {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1px;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 846px;
+}
+
+.indexWho .text-wrapper-2 {
+  color: #000000;
+  font-family: "Newsreader", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 232px;
+}
+
+.indexWho .nichl {
+  height: 400px;
+  left: 62px;
+  position: absolute;
+  top: 1148px;
+  width: 1212px;
+}
+
+.indexWho .nich-pic {
+  background-color: #e6e6e6;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  height: 400px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.indexWho .p {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 865px;
+}
+
+.indexWho .text-wrapper-3 {
+  color: #000000;
+  font-family: "Newsreader", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 343px;
+  letter-spacing: 3px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.indexWho .phoebel {
+  height: 400px;
+  left: 62px;
+  position: absolute;
+  top: 646px;
+  width: 1212px;
+}
+
+.indexWho .overlap-2 {
+  height: 400px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 857px;
+}
+
+.indexWho .phoebe-is-a-dynamic {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 857px;
+}
+
+.indexWho .text-wrapper-4 {
+  color: #000000;
+  font-family: "Newsreader", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 3px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 318px;
+}
+
+.indexWho .jackl {
+  height: 400px;
+  left: 62px;
+  position: absolute;
+  top: 157px;
+  width: 1212px;
+}
+
+.indexWho .jack-pic {
+  height: 400px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.indexWho .text-wrapper-5 {
+  color: #000000;
+  font-family: "Newsreader", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 343px;
+  letter-spacing: 3px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 276px;
+}
+
+.indexWho .text-wrapper-6 {
+  color: #000000;
+  font-family: "Newsreader", Helvetica;
+  font-size: 45px;
+  font-weight: 400;
+  left: 563px;
+  letter-spacing: 3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  white-space: nowrap;
+}
