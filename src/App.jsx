@@ -8,6 +8,7 @@ import { Route, Routes } from "react-router-dom"
 import Tax_1040 from '../Pages/Tax_1040';
 import Income from '../Pages/Income';
 import LoginPage from '../Pages/LoginPage';
+import SignUpPage from '../Pages/SignUpPage';
 import ServicesPage from '../Pages/ServicesPage';
 import PricingPage from '../Pages/PricingPage';
 import ContactUsPage from '../Pages/ContactUsPage';
@@ -28,6 +29,7 @@ function App() {
           <Route path='/income' element={<Income />}/>
           <Route path='/Login' element={<LoginPage />}/>
           <Route path='/Services' element={<ServicesPage />}/>
+          <Route path='/Signup' element={<SignUpPage />} />
           <Route path='/Pricing' element={<PricingPage />}/>
           <Route path='/ContactUs' element={<ContactUsPage />}/>
           <Route path='/WhoWeAre' element={<WhoWeArePage />}/>
